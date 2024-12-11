@@ -1,4 +1,4 @@
-# How-to-Add-Arrows-to-the-Chart-Axis-in-WPF-Chart
+# How to Add Arrows to the Chart Axis in WPF Chart
 This article provides a detailed walkthrough on how to add arrows to the axis using Annotations in [WPF Chart](https://www.syncfusion.com/wpf-controls/charts).
 
 The [SfChart](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.SfChart.html) includes support for [Annotations](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.SfChart.html#Syncfusion_UI_Xaml_Charts_SfChart_Annotations), enabling the addition of various types of annotations to enhance chart visualization. Using [Line Annotation](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.LineAnnotation.html) for you can achieves to add arrows to the axis.
