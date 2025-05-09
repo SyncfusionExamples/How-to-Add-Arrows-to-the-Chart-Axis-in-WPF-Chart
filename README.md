@@ -81,3 +81,8 @@ Learn step-by-step instructions and gain insights to add arrows to the axis usin
 
 ![AddArrowToAnnotation](https://github.com/user-attachments/assets/2ab333c7-3f49-4b98-a15e-71679a1ef332)
 
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [how to add arrows to the chart axis in WPF Chart?](https://support.syncfusion.com/kb/article/18304/how-to-add-arrows-to-the-chart-axis-in-wpf-chart).
