@@ -85,4 +85,4 @@ Learn step-by-step instructions and gain insights to add arrows to the axis usin
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [how to add arrows to the chart axis in WPF Chart?](https://support.syncfusion.com/kb/article/18304/how-to-add-arrows-to-the-chart-axis-in-wpf-chart).
+For more details, refer to the KB on [how to add arrows to the chart axis in WPF Chart](https://support.syncfusion.com/kb/article/18304/how-to-add-arrows-to-the-chart-axis-in-wpf-chart).
